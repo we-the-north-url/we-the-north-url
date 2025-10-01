@@ -39,4 +39,6 @@ We the North Market’s administrators are transparent about their mission: to o
 
 *For safe, reliable access to Canada’s most trusted darknet marketplace, always use the official "we the north url" found at http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion.*
 
-Update:  Thursday 18 September 2025
+
+
+Update:  01 October 2025 404 fixes
